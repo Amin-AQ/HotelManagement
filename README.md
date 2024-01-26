@@ -55,7 +55,3 @@ Returns details about a specific user based on their wallet address, including t
 ## License
 
 This smart contract is open-source and available under the [GPL-3.0 License](LICENSE).
-
-```
-
-Make sure to replace placeholders like `your-username` and customize the content based on your specific contract details. Additionally, consider adding more information about the project, requirements, and any specific deployment instructions if necessary.
